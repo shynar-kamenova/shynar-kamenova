@@ -1,6 +1,6 @@
 # Hi, I'm Shynar Kamenova 👋
 
-PhD Doctoral candidate in *Information Systems* (8D06103) at *L.N. Gumilyov Eurasian National University*  
+PhD Doctoral Researcher in *Information Systems* (8D06103) at *L.N. Gumilyov Eurasian National University*  
 Institute of Digital Sciences and Artificial Intelligence | Department of Information Systems  
 Supervisor: Prof. Abdikerimova Gulzira Bakhytbekovna
 
